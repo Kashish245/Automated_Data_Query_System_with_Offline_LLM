@@ -3,7 +3,7 @@
 ## Project Description
 This system provides a natural language interface to query product data stored in MongoDB. It uses an offline Mistral-7B LLM to convert natural language questions into MongoDB queries, executes them, and returns results in CSV format. The solution meets all requirements specified in the GenAI Assignment PDF.
 
-## 🛠Technical Stack
+## Technical Stack
 - **Backend**: Python 3.11
 - **Database**: MongoDB Atlas
 - **LLM**: Mistral-7B (offline via llama.cpp)
