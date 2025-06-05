@@ -1,9 +1,9 @@
 # Automated Data Query System with Offline LLM
 
-## 📝 Project Description
+## Project Description
 This system provides a natural language interface to query product data stored in MongoDB. It uses an offline Mistral-7B LLM to convert natural language questions into MongoDB queries, executes them, and returns results in CSV format. The solution meets all requirements specified in the GenAI Assignment PDF.
 
-## 🛠️ Technical Stack
+## 🛠Technical Stack
 - **Backend**: Python 3.11
 - **Database**: MongoDB Atlas
 - **LLM**: Mistral-7B (offline via llama.cpp)
@@ -13,7 +13,7 @@ This system provides a natural language interface to query product data stored i
   - Pandas (data processing)
   - Streamlit (optional UI)
 
-## 📋 Assignment Requirements Fulfilled
+## Assignment Requirements Fulfilled
 - [x] CSV data loading to MongoDB
 - [x] Natural language to MongoDB query conversion
 - [x] Query execution and result display/saving
@@ -22,7 +22,7 @@ This system provides a natural language interface to query product data stored i
 - [x] Error handling and validation
 - [x] Documentation (this README)
 
-## 🚀 Setup Instructions
+## Setup Instructions
 
 ### Prerequisites
 1. Google Colab account (recommended) or Python 3.11+ environment
