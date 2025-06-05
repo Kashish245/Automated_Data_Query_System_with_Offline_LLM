@@ -1,4 +1,3 @@
-@@ -0,0 +1,36 @@
 # Automated Data Query System with Offline LLM
 
 ## 📝 Project Description
